@@ -11,7 +11,7 @@
 - Meal Planner
 
 ### 배포 링크
-- https://gemini.google.com/share/2dddfa428905
+- https://gemini.google.com/share/a8bef09ff90f
 
 ### 이 앱을 만든 이유
 
